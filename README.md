@@ -179,7 +179,7 @@ python -m pipelines.inference.run --mode batch
 2) Start the API (optional)
 uvicorn src.serving.app:app --reload
 
----
+```
 
 ### Roadmap
 Phase 1 — MVP (Week 1–2)
