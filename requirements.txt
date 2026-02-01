@@ -1,0 +1,36 @@
+# Core
+numpy
+pandas
+polars
+pyarrow
+
+# Data Engineering
+duckdb
+sqlalchemy
+prefect
+
+# Visualization / EDA
+matplotlib
+seaborn
+plotly
+
+# Time Series & ML
+scikit-learn
+lightgbm
+xgboost
+statsmodels
+prophet
+
+# MLOps
+mlflow
+dvc
+
+# API / Serving
+fastapi
+uvicorn
+
+# Utils
+python-dotenv
+pydantic
+loguru
+tqdm
