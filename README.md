@@ -206,8 +206,8 @@ Most forecasting repos are notebooks. This is a platform:
  -model registry and monitoring
  -business impact alignment (inventory & service level)
 
-License
+## License
 MIT
 
-Author
+## Author
 Victor Vergara
