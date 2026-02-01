@@ -212,10 +212,8 @@ Most forecasting repos are notebooks. This is a platform:
 
 ---
 
-###
-License
+### License
 MIT
 
-Author
-
+### Author
 Victor Vergara
