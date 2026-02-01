@@ -183,49 +183,37 @@ uvicorn src.serving.app:app --reload
 ---
 ### Roadmap
 Phase 1 — MVP 
-
   - dataset ingestion + clean time series
-
   - baseline models + evaluation
-
   - reproducible training runs
 
-Phase 2 — Production-like (Week 3–4)
+Phase 2 — Production-like
+  - feature store concept (simple feature tables)
+  - MLflow tracking + model registry
+  - batch inference + output contracts
 
-feature store concept (simple feature tables)
-
-MLflow tracking + model registry
-
-batch inference + output contracts
-
-Phase 3 — Advanced (Week 5–6)
-
-drift monitoring + retraining triggers
-
-probabilistic forecasts / intervals
-
-cost-impact simulation and model selection by business KPI
+Phase 3 — Advanced
+  - drift monitoring + retraining triggers
+  - probabilistic forecasts / intervals
+- cost-impact simulation and model selection by business KPI
 
 Results (to be filled)
+  - Top model performance (WAPE, Bias)
+  - Model ranking by SKU segment (fast/slow movers)
+  - Financial impact simulation summary
 
-Top model performance (WAPE, Bias)
+---
 
-Model ranking by SKU segment (fast/slow movers)
-
-Financial impact simulation summary
-
-What makes this portfolio project different
-
+### What makes this portfolio project different
 Most forecasting repos are notebooks. This is a platform:
+  - pipelines, quality, reproducibility
+  - model registry and monitoring
+  - business impact alignment (inventory & service level)
 
-pipelines, quality, reproducibility
+---
 
-model registry and monitoring
-
-business impact alignment (inventory & service level)
-
+###
 License
-
 MIT
 
 Author
