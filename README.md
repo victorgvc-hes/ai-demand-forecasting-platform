@@ -181,7 +181,7 @@ uvicorn src.serving.app:app --reload
 
 ---
 
-## Roadmap
+### Roadmap
 Phase 1 — MVP (Week 1–2)
 
 dataset ingestion + clean time series
