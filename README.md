@@ -163,13 +163,13 @@ Outputs:
 ---
 
 ## Quickstart (local)
-### 2) Create environment
+### 1) Create environment
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-2) Run the pipeline (example)
+1) Run the pipeline (example)
 python -m pipelines.ingestion.run
 python -m pipelines.preprocessing.run
 python -m pipelines.feature_engineering.run
