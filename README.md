@@ -180,15 +180,15 @@ python -m pipelines.inference.run --mode batch
 uvicorn src.serving.app:app --reload
 
 ```
-
+---
 ### Roadmap
-Phase 1 — MVP (Week 1–2)
+Phase 1 — MVP 
 
-dataset ingestion + clean time series
+  - dataset ingestion + clean time series
 
-baseline models + evaluation
+  - baseline models + evaluation
 
-reproducible training runs
+  - reproducible training runs
 
 Phase 2 — Production-like (Week 3–4)
 
