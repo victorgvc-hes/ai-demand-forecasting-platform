@@ -53,6 +53,8 @@ Given daily sales history for multiple products (SKUs), forecast demand at diffe
 ---
 
 ## Repository structure
+```
+-
 ai-demand-forecasting-platform/
 ├── data/
 │ ├── raw/
@@ -80,6 +82,8 @@ ai-demand-forecasting-platform/
 ├── Makefile
 ├── pyproject.toml
 └── README.md
+```
+-
 
 ---
 
