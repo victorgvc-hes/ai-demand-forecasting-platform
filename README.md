@@ -59,7 +59,8 @@ Given daily sales history for multiple products (SKUs), forecast demand at diffe
 ---
 
 ## Repository structure
-## Architecture Diagram
+
+### Architecture Diagram
 
 ```mermaid
 flowchart TD
@@ -81,8 +82,8 @@ J --> K[Real-time Forecast API]
 
 I --> L[Business Impact Evaluation]
 L --> M[Operational Cost Reduction Analysis]
-
 ```
+
 ---
 
 ## Data
