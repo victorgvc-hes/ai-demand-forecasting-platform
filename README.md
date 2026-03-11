@@ -80,8 +80,9 @@ G --> J[FastAPI Prediction Service]
 J --> K[Real-time Forecast API]
 
 I --> L[Business Impact Evaluation]
-L --> M[Operational Cost Reduction Analysis]```
+L --> M[Operational Cost Reduction Analysis]
 
+```
 ---
 
 ## Data
