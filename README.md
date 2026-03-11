@@ -59,7 +59,6 @@ Given daily sales history for multiple products (SKUs), forecast demand at diffe
 ---
 
 ## Repository structure
-```
 ## Architecture Diagram
 
 ```mermaid
