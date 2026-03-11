@@ -1,0 +1,8 @@
+Seasonal Naive Baseline Summary
+Input: data\processed\m5\demand_long.parquet
+Validation window: 2016-04-25 -> 2016-05-22
+Seasonal lag: 7
+Sample SKUs: 1000
+Overall WAPE: 0.8750
+Overall Bias: -0.0410
+Overall RMSE: 3.4031
