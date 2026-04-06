@@ -317,4 +317,8 @@ MIT
 - LinkedIn: https://www.linkedin.com/in/victor-vergara075/
 - Email: victorgvc@gmail.com
 - Portfolio: https://github.com/victorgvc-hes?tab=repositories
+
+20+ years procurement & operations · Industrial Engineering · 
+Applied AI/ML in supply chain
+
 ---
