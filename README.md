@@ -286,31 +286,35 @@ Business Impact Evaluation
 
 ## Running the Project
 
-### 1️⃣ Data ingestion
+### 1 Data ingestion
 python pipelines/ingestion/load_m5.py
 
-### 2️⃣ Feature engineering
+### 2 Feature engineering
 python pipelines/features/build_training_features.py
 
-### 3️⃣ Train the model
+### 3 Train the model
 python pipelines/training/train_lightgbm.py
 
-### 4️⃣ Run batch inference
+### 4 Run batch inference
 python pipelines/inference/run_inference.py
 
-### 5️⃣ Run business impact evaluation
+### 5 Run business impact evaluation
 python pipelines/evaluation/business_impact.py
 
-### 6️⃣ Start prediction API
+### 6 Start prediction API
 uvicorn src.serving.app:app --reload
-
-### API documentation will be available at:
-http://127.0.0.1:8000/docs
 
 ---
 
 ### License
 MIT
 
-### Author
-Victor Vergara
+---
+
+## Author
+
+**Victor Vergara**
+- LinkedIn: https://www.linkedin.com/in/victor-vergara075/
+- Email: victorgvc@gmail.com
+- Portfolio: https://github.com/victorgvc-hes?tab=repositories
+---
