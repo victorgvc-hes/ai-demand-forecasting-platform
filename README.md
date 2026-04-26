@@ -264,23 +264,11 @@ Example comparison between actual demand and model forecast for a sample SKU.
 
 ## System Architecture
 
-CSV Data (M5 dataset)
-↓
-Data Ingestion Pipeline
-↓
-Clean Dataset (Parquet)
-↓
-Feature Engineering
-↓
-Model Training (LightGBM)
-↓
-Model Artifact (.pkl)
-↓
-Inference Pipeline
-↓
-FastAPI Prediction Service
-↓
-Business Impact Evaluation
+End-to-end machine learning system designed for scalable demand forecasting, from raw data ingestion to real-time API predictions and business impact evaluation.
+
+<p align="center">
+  <img src="assets/System-architecture.png" alt="System Architecture Diagram" width="100%">
+</p>
 
 ---
 
