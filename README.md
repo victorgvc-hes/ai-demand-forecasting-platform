@@ -266,6 +266,9 @@ Example comparison between actual demand and model forecast for a sample SKU.
 
 End-to-end machine learning system designed for scalable demand forecasting, from raw data ingestion to real-time API predictions and business impact evaluation.
 
+<p align="center">
+  <img src="System_architecture.png" alt="System Architecture Diagram" width="100%">
+</p>
 ---
 
 ## Running the Project
