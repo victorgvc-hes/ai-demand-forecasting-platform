@@ -269,6 +269,7 @@ End-to-end machine learning system designed for scalable demand forecasting, fro
 <p align="center">
   <img src="System_architecture.png" alt="System Architecture Diagram" width="100%">
 </p>
+
 ---
 
 ## Running the Project
